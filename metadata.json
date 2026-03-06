@@ -1,0 +1,5 @@
+{
+  "name": "HealthCare Secure Access",
+  "description": "Secure authentication and access control for healthcare system using One-Time Handshake (OTH).",
+  "requestFramePermissions": []
+}
