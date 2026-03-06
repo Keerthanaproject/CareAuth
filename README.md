@@ -1,2 +1,11 @@
-# CareAuth
-A Secure Authentication and Access Control system for healthcare protects patient data by verifying user identity and restricting access based on roles. Using technologies like JWT authentication, encrypted records, and role-based permissions, it ensures only authorized users  can securely access medical informations
+
+  # Comprehensive Healthcare Dashboard
+
+  This is a code bundle for Comprehensive Healthcare Dashboard. The original project is available at https://www.figma.com/design/Z2P8n5x6rLrL8oAdytqHpx/Comprehensive-Healthcare-Dashboard.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
